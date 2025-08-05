@@ -4,7 +4,7 @@ The Earth is dying- a land choked with dust, stripped of its harvest by the parc
 
 This task is meant to teach you the basics of **git and terminal commands** in a fun game-like manner. You can use [this resource](https://linuxjourney.com/lesson/the-shell) to learn the basics and you must find the rest through google
 
-You can start this task by first cloning it into your system. Be sure to store all the passwords that you find in a text file and also to commit changes after finishing every part
+You can start this task by first cloning it into your system. Document your journey for the future travellers. **Include all the commands you used and store all the passwords that you find along the way in a text file. Make sure to commit the changes after finishing every part.** 
 
 ## 1. Find the Facility
 
