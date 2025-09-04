@@ -1,4 +1,5 @@
-read -s -p "Enter password to execute script: " USER_PASSWORD
+read -p "Enter password to execute script: " USER_PASSWORD
+
 echo
 if [ -z "$LOCA_LOCA" ]; then
   echo "You haven't done all of the steps properly"
@@ -63,5 +64,6 @@ elif [ "$USER_PASSWORD" == "$LOCA_LOCA" ]; then
   done
 else
   echo "Incorrect password"
+ #create mode 100755 Gargantua/.the_core/solve.sh
   exit 1
 fi
