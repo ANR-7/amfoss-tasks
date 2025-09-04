@@ -10,5 +10,6 @@ Then made a solve.sh after some googling on how openssl works. I didnt use base6
 Then had to fix the code of gravity.sh and set $LOCA_LOCA to Open_Source
 
 
-![image](files:./image.png)
+<img width="1047" height="646" alt="image" src="https://github.com/user-attachments/assets/1c498b35-01ca-4516-9742-c090ba9c9461" />
+
 
