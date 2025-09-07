@@ -1,25 +1,30 @@
 Level 0  
+
 ssh -p 2220 bandit0@bandit.labs.overthewire.org  
 ls  
 cat readme  
 ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If  
 
 Level 1  
+
 cat ./-  
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx  
 
 Level 2  
+
 I tried cat ./\-\-spaces\ in\ this\ filename\-\- but that didn’t work  
 So I did cat ./- and then pressed tab  
 cat ./--spaces\ in\ this\ filename—  
 MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx  
 
 Level 3  
+
 <img width="693" height="308" alt="image" src="https://github.com/user-attachments/assets/de736b82-bcc2-4d73-9e1a-d7609b8fd989" />  
 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ  
 
 
 Level 4  
+
 cat ./* gives output of all files  
 then I just selected human readable text  
 U4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQwx  
@@ -34,6 +39,7 @@ find . -size 1033c
 HWasnPhtq9AVKe0dmk45nxy20cvUa6EG  
 
 Level 6  
+
 find / -type f -user bandit7 -group bandit6  
 gives a whole bunch of permission denied with a single  
 /var/lib/dpkg/info/bandit7.password  
@@ -46,6 +52,7 @@ grep millionth data.txt
 dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc  
 
 Level 8  
+
 sort data.txt | uniq -u  
 
 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM  
