@@ -1,29 +1,12 @@
-**Level 0**  
-
-![image](https://github.com/user-attachments/assets/4a0964d5-7824-44f5-b419-8a20adcb06c7)  
-[ssh -p 2220 bandit0@bandit.labs.overthewire.org]{.mark}  
-
-[ls]{.mark}  
-
-[cat readme]{.mark}  
-
-ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If  
-
-**Level 1**  
-
-[cat ./-]{.mark}  
 Level 0  
-
 ssh -p 2220 bandit0@bandit.labs.overthewire.org  
 ls  
 cat readme  
-
 ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If  
 
 Level 1  
-
 cat ./-  
-263JGJPfgU6LtdEvgfWU1XP5yac29fFx  
+263JGJPfgU6LtdEvgfWU1XP5yac29mFx  
 
 Level 2  
 I tried cat ./\-\-spaces\ in\ this\ filename\-\- but that didn’t work  
@@ -32,8 +15,9 @@ cat ./--spaces\ in\ this\ filename—
 MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx  
 
 Level 3  
-
+<img width="693" height="308" alt="image" src="https://github.com/user-attachments/assets/de736b82-bcc2-4d73-9e1a-d7609b8fd989" />  
 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ  
+
 
 Level 4  
 cat ./* gives output of all files  
