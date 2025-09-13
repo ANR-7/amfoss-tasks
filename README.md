@@ -14,7 +14,7 @@ Also I love the fact that if I put genuine effort into this club, I can see a lo
 and that will motivate me to put even more effort into this club creating a cycle which boosts the club.
 
 
-## ** What are your fields of interest, and how do you plan on working on them?**
+## **What are your fields of interest, and how do you plan on working on them**
 
 I love all things programming (granted I suck at a lot of things programming) and anything challenging
 in this domain interests me. I'm sure amfoss provides more than ample opportunity to find the specific
