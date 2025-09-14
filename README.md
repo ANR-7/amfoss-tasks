@@ -33,7 +33,7 @@ field I really can excel at and specialise in.
 | Task-07   | [WordRush Mobile app](#)   | Not attempted   |
 | Task-08   | [OpenCV Treasure Map](#)         | Not attempted     |
 | Task-09   | [SysForge challenge](#)          | Not attempted |
-| Task-10   | [BattleCraft: Daily CSS Challenges](https://github.com/ANR-7/amfoss-tasks/tree/main/task-10) | Partial  |
+| Task-10   | [BattleCraft: Daily CSS Challenges](https://github.com/ANR-7/amfoss-tasks/tree/main/task-10) | Completed  |
 
 Additional Tasks
 
